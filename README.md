@@ -12,4 +12,4 @@ Short Desc: First try to export WebGL
 ShareMyGame: https://www.sharemygame.com/share/3407f7db-075f-4e75-b1af-33e06614b954
 
 
-WebGL Exportet game: LINK
+WebGL Exportet game (Uploadet on 27.02.2019): https://www.sharemygame.com/share/3407f7db-075f-4e75-b1af-33e06614b954
